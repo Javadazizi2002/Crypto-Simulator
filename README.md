@@ -1,5 +1,6 @@
+# YOUR PROJECT TITLE
 # CryptoSimulator
- # YOUR PROJECT TITLE
+ 
  #### My video on YouTube: <URL HERE>
 
 ## Introduction
