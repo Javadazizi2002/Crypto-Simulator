@@ -49,9 +49,8 @@ To run this script, follow these steps:
 
 Clone the repository:
 
->git clone https://github.com/Javadazizi2002/CryptoSimulator.git.
-
-cd CryptoSimulator
+`git clone https://github.com/Javadazizi2002/CryptoSimulator.git`
+`cd CryptoSimulator`
 
 Run the script:
 
