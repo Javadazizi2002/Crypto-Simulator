@@ -50,6 +50,7 @@ To run this script, follow these steps:
 Clone the repository:
 
 `git clone https://github.com/Javadazizi2002/CryptoSimulator.git`
+
 `cd CryptoSimulator`
 
 Run the script:
@@ -72,8 +73,8 @@ This project utilizes the following libraries:
 
 ### Installation of Libraries
 To install the required libraries, you can use pip. Run the following command in your terminal:
-bash
-pip install libraryname anotherlibrary_name
+
+`pip install libraryname anotherlibrary_name`
 
 
 Make sure to replace library_name and another_library_name with the actual names of the libraries you are using.
