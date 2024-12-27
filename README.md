@@ -45,7 +45,8 @@ If you would like to contribute to this project, please fork the repository and 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements
-- Thank you to all contributors and libraries that made this project possible.
+- I would like to express my sincere gratitude to Harvard University and the CS50P course for providing invaluable resources and knowledge that greatly contributed to the development of this project. The skills and concepts learned throughout the course were instrumental in shaping my understanding of programming and software development.
+
 
 
 
