@@ -36,7 +36,7 @@ Replace main.py with the entry point of your application if it's different.
 ## Running Tests
 To ensure that everything is working correctly, you can run the tests using pytest:
 
-pytest tests/
+`pytest tests/`
 
 ## Contributing
 If you would like to contribute to this project, please fork the repository and submit a pull request. Any contributions are welcome!
