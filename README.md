@@ -1,7 +1,7 @@
 # YOUR PROJECT TITLE
 # CryptoSimulator
  
- #### My video on YouTube: <URL HERE>
+ #### My video on YouTube: <https://youtu.be/hNKkcC9cQvQ>
 
 ## Introduction
 CryptoSimulator is a Python-based application designed to simulate cryptocurrency trading. It provides users with the ability to buy and sell various cryptocurrencies while managing their portfolio and balance effectively.
