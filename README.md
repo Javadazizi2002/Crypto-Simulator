@@ -55,7 +55,7 @@ cd CryptoSimulator
 
 Run the script:
 
-'python3 CryptoSimulator.py'
+`python3 CryptoSimulator.py`
 
 ## Functions Used
 The following functions are implemented in this project:
