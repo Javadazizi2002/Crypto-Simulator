@@ -38,7 +38,8 @@ To install the project, follow these steps:
 
 3. Install the required dependencies:
    
-   `pip install -r requirements.txt`
+   `pip install requests matplotlib`
+
    
 ## Usage
 To run the CryptoSimulator, you can use the following command in your terminal:
