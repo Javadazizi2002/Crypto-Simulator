@@ -1,6 +1,13 @@
 # Crypto-Simulator
 This is a python crypto simulator for cs50p course
-# Project Title
+## Features
+- **User-Friendly Interface**: The project offers an intuitive and easy-to-navigate interface, making it accessible for users of all skill levels.
+- **Robust Functionality**: Implements core features that effectively solve [specific problem] and enhance user experience.
+- **Cross-Platform Compatibility**: The application can run seamlessly on various operating systems, including Windows, macOS, and Linux.
+- **Extensible Architecture**: Designed with modular components that allow for easy updates and integration of new features in the future.
+- **Comprehensive Documentation**: Includes detailed documentation to help users understand the functionality and usage of the project quickly.
+
+
 
 ## Description
 This project is a [brief description of your project]. It aims to [explain the purpose of your project and what problem it solves or what functionality it provides].
