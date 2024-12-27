@@ -1,4 +1,4 @@
-# Crypto-Simulator
+# Crypto Simulator
 This is a python crypto simulator for cs50p course
 ## Features
 - **User-Friendly Interface**: The project offers an intuitive and easy-to-navigate interface, making it accessible for users of all skill levels.
