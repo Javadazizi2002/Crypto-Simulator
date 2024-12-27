@@ -28,7 +28,7 @@ To install the project, follow these steps:
 ## Usage
 To run the CryptoSimulator, you can use the following command in your terminal:
 
-python3 CryptoSimulator.py
+`python3 CryptoSimulator.py`
 
 
 Replace main.py with the entry point of your application if it's different.
