@@ -39,8 +39,7 @@ To run the program, follow these steps:
 
 4. Run the program using:
    
-   *(Replace main.py with the name of your main Python file.)*
-
+  
    Usage
 To run this script, follow these steps:
 
@@ -53,6 +52,9 @@ Clone the repository:
 Run the script:
 
 `python3 CryptoSimulator.py`
+
+`pip install requests matplotlib`
+
 
 ## Functions Used
 The following functions are implemented in this project:
