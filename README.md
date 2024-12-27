@@ -9,9 +9,6 @@ This is a python crypto simulator for cs50p course
 
 
 
-## Description
-This project is a [brief description of your project]. It aims to [explain the purpose of your project and what problem it solves or what functionality it provides].
-
 
 ## How the Cryptocurrency Simulator Works
 The cryptocurrency simulator is designed to mimic real-world trading and investment scenarios in the crypto market using Python. It operates through the following steps:
